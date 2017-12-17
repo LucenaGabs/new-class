@@ -1,0 +1,30 @@
+<ion-view view-title="Good Class" id="good" >
+  <ion-content class="padding">
+    <img src="https://static.quizur.com/i/b/577466a58ec7e7.59352812importancia-do-professor-2.jpg" width="70%" align="middle">
+    <h3 align="middle">Profa. Marta</h3>
+    <p align="center">
+      Profa. na ETEC MasterTech, em Matemática e Sociologia. Formação em Economia.
+    </p>
+    <div>
+    <button ion-button full>Postar atividade </button>
+    <button ion-button full>Editar Atividade </button>
+    <button ion-button full>Rascunhos</button>
+    </div>
+    <h3>Histórias Postadas</h3>
+    <div class="tribunal">
+    <ion-card>
+  <img src="https://ep01.epimg.net/internacional/imagenes/2017/10/23/actualidad/1508762944_523916_1508763065_noticia_normal.jpg"/ width="50%">
+  <ion-card-content>
+    <ion-card-title >
+      <h4 align="center">Tribunal de Júri em Sociologia</h4>
+      </ion-card-title>
+    <p class="simula"><i>
+      Realização de uma simulação de um júri com alunos do Ensino Médio.
+    </p></i>
+  </ion-card-content>
+</ion-card>
+    </div>
+  </ion-content>
+</ion-view>
+
+</html>
