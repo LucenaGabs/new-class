@@ -1,0 +1,44 @@
+<ion-view view-title="Histórias">
+  <ion-content>
+    <ion-list>
+     <ion-card>
+ 
+<div>
+  <ion-item class="post">
+    <ion-avatar item-start>
+      <img src="img/adam.jpg" width="45"> <h2 class="maciel">Prof. Maciel</h2>
+    </ion-avatar>
+    <p>16/12/17 ás 15h49</p>
+  </ion-item>
+  <img src="http://1.bp.blogspot.com/-80Bwr10cnU4/UOkJ6OWfoxI/AAAAAAAACSQ/2jDTWyQY_eM/s1600/biologia+plantas+bri%C3%B3ftas+pterid%C3%B3fitas+angiospermas+biologia.jpg" width="60%" class="img">
+  <ion-card-content>
+    <h3 class="folheto"> Folheto de Reino das Plantas</h3>
+    <p class="linha1">Atividade com informações sobre o reino das plantas</p>
+  </ion-card-content>
+
+  <ion-row>
+    <ion-col>
+      <button ion-button block>
+        <ion-icon name="thumbs-up"></ion-icon>
+        <div class="ind">12 indicações</button></div>
+      </button>
+    </ion-col>
+    <ion-col>
+      <button ion-button icon-left clear small>
+        <ion-icon name="text"></ion-icon>
+        <div>4 Comentário</div>
+      </button>
+    </ion-col>
+
+    <ion-col center text-center>
+      <ion-note>
+        11h atrás
+      </ion-note>
+    </ion-col>
+  </ion-row>
+</div>
+
+</ion-card>
+    </ion-list>
+  </ion-content>
+</ion-view>
