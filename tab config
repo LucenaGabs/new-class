@@ -1,0 +1,10 @@
+<ion-view view-title="Good Class">
+	
+  <ion-content>
+  <ion-item-group>
+    <ion-item>Configuração de Perfil</ion-item>
+    <ion-item>Privacidade</ion-item>
+    <ion-item>Sair</ion-item>
+  </ion-item-group>
+  </ion-content>
+</ion-view>
