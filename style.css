@@ -1,0 +1,39 @@
+.folheto{
+	color: green;
+}
+
+.maciel{
+	color: gray;
+}
+
+.img{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.folheto{
+	text-align: center;
+}
+
+.post{
+	border-style: solid;
+}
+
+.marta{
+	align-items: center;
+}
+
+.simula{
+	font-style: italic;
+	text-align: center;
+}
+
+.tribunal{
+       border: 5px solid black;
+}
+
+.post{
+	bordes: 2px solid black;
+}
